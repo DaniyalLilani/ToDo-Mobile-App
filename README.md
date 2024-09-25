@@ -6,8 +6,8 @@ This is a simple ToDo App built using Flutter and Hive for local storage. It all
 
 ### Features
 
-Add new tasks with descriptions.
-Mark tasks as completed.
-Delete tasks.
-Persistent data storage using Hive.
-User-friendly interface with smooth animations.
+- Add new tasks with descriptions. 
+- Mark tasks as completed.
+- Delete tasks.
+- Persistent data storage using Hive.
+- User-friendly interface with smooth animations.
