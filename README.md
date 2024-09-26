@@ -2,7 +2,7 @@
 
 ## Developed with flutter, made with love
 
-This is a simple ToDo App built using Flutter and Hive for local storage. It allows users to create, update, and delete tasks. The app saves tasks persistently, so they are available even after closing the app.
+This is a simple ToDo App built using Flutter and Hive for local storage. It allows users to create, update, and delete tasks. The app saves tasks your devices local storage, so they are available even after closing the app.
 
 ### Features
 
